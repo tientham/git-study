@@ -4,6 +4,3 @@
 [submodule "module_2"]
 	path = module_2
 	url = https://github.com/tientham/git-study
-[submodule "feature_1"]
-	path = feature_1
-	url = https://github.com/tientham/git-study/
