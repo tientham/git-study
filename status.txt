@@ -1,0 +1,150 @@
+commit 7bc5433c78c165654be490b7f07fed5a825109c2
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 21 13:51:17 2016 +0100
+
+    Testing the 2nd time with reset
+
+commit c2439a0276a146b9494852e49c1dca5846ff009b
+Merge: 9a1f214 653b3a0
+Author: Tientham <tientham@gmail.com>
+Date:   Sat Feb 20 23:26:46 2016 +0100
+
+    Merge remote-tracking branch 'origin/master'
+    To adding sixth script into repo.
+
+commit 9a1f214835f9a8500dab0cfa486a82c0c5d6a836
+Author: Tientham <tientham@gmail.com>
+Date:   Sat Feb 20 23:22:56 2016 +0100
+
+    Adding seventh script
+
+commit 653b3a0f4f86900efb6db4dc74aa45905739d089
+Author: Tientham <tientham@gmail.com>
+Date:   Sat Feb 20 23:21:29 2016 +0100
+
+    Adding of sixth script
+
+commit 27b85cf576dc7f1aeba1fc8adbf4eccf707acc75
+Author: Tientham <tientham@gmail.com>
+Date:   Sat Feb 20 22:41:34 2016 +0100
+
+    Change status of fifth script into executable
+
+commit 1ec4f69ec0f4c0e7f0d2645b0020bbd11197aa7f
+Author: Tientham <tientham@gmail.com>
+Date:   Sat Feb 20 22:31:02 2016 +0100
+
+    Fifth script added
+    This is adopted for testing and working with remote branch!
+    20.02.2016
+    Tien
+
+commit ff214b0aeebea7c1694fe2c5f434ab756cbcf440
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 22:12:04 2016 +0100
+
+    Adding tomi-luca and tomi-maria into main repo!
+
+commit dd41a4bfea799bcd1f5aa3c694e8f24faf868ec4
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 22:07:23 2016 +0100
+
+    Adding modification on makefile
+
+commit 97fc0e58c60570f801c2bdc5dfed0981cfeda82e
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 22:04:20 2016 +0100
+
+    hey this is 2nd Modification of makefile with --amend
+
+commit 68af6e6bcd6340985a9c5bfb7004561cfd374b02
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 22:03:37 2016 +0100
+
+    Modification of makefile
+
+commit 17e640168b2b6b5b0ab8fa9db63207ca8e952e5d
+Merge: c9f953c f8c0437
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 21:45:19 2016 +0100
+
+    I want to merge to get complete makefile.
+    Merge branch 'backup'
+
+commit c9f953c8af3d89e2a21a9cdf4c285ce8b2d916f6
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 21:44:49 2016 +0100
+
+    make new makefile 2
+
+commit f8c0437e317dfa4900ff56f507c2022aca0dfbde
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 21:40:26 2016 +0100
+
+    Commit change for src/makefile
+
+commit e80232855da23328f75a7cf95e87f82f966995c7
+Author: Tientham <tientham@gmail.com>
+Date:   Tue Feb 16 21:26:56 2016 +0100
+
+    Make new directory src/ with files
+
+commit e012a507e00d246dfec91533fce5e08c47afebb9
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 19:44:09 2016 +0100
+
+    Set executable for fourth script
+
+commit 4ff066da2148701c9de93b9da4eac30db72d6720
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 19:39:23 2016 +0100
+
+    Adding fourth script!
+
+commit aba8d71259265e43ca2a0be0a8984c4b09523f33
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:46:29 2016 +0100
+
+    Adding script tinh yeu
+
+commit 06ba1a86ee19a4a07ff90096cd5b9f1d9e2a999f
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:31:27 2016 +0100
+
+    Recall third_script again
+
+commit 6a572439ef40dfaf66b91d6ce5e431732d4550e1
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:27:59 2016 +0100
+
+    Delete temporarily third script
+
+commit e26fb6713d0cabcebb41c8bc653c0643b5c04a01
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:26:16 2016 +0100
+
+    Creattion of third script
+
+commit 1a2ca49a4f800bed12c5d5e6367dc27e4b30d0e7
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:22:38 2016 +0100
+
+    Updating second_script
+
+commit 92571bd2989cba94f676106d6565eab33c515819
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:16:27 2016 +0100
+
+    Adding Second_script
+
+commit ae2e8f29561a1ab9fb657a31c8c2831ac27de53a
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:08:34 2016 +0100
+
+    Update Make-file script
+
+commit 065465985f85629eba324461e077c2678bc720c0
+Author: Tientham <tientham@gmail.com>
+Date:   Sun Feb 14 16:06:07 2016 +0100
+
+    TienTham git study
