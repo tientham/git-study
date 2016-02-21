@@ -4,3 +4,6 @@
 [submodule "module_2"]
 	path = module_2
 	url = https://github.com/tientham/git-study
+[submodule "feature1"]
+	path = feature1
+	url = https://github.com/tientham/feature1
